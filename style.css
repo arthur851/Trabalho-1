@@ -1,0 +1,36 @@
+.link{
+    font-size: x-small;
+    font-weight: 0.5px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h1{
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+}.paragrafodotitulo{
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+}div{
+    text-align: left;
+    margin-left: 32%;
+    margin-right: 32%;
+}.darkred{
+    color: rgb(165, 10, 10);
+}
+li{
+    color: rgb(165, 10, 10);
+}.trechocitado{
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}.divline{
+    border-left: solid;
+    border-radius: 1px;
+    border-color: rgb(165, 10, 10);
+    
+}hr{
+    color: darkgray;
+    width: 500px;
+}
